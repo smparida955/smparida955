@@ -1,16 +1,20 @@
-## Hi there 👋
+# 💫 About Me
 
-<!--
-**smparida955/smparida955** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA student exploring the world of web development  
+💻 Currently building projects using HTML, CSS, JavaScript (and learning more every day)  
+🌱 Learning backend development and fundamentals of modern web apps  
+🤝 Open to collaborating on beginner-friendly open source projects  
+🚀 Curious about how real-world applications are built and scaled  
+⚡ Fun fact: I enjoy breaking things in code… and figuring out how to fix them  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 What I'm focusing on
+- Web Development (Frontend → Backend)
+- Building small, practical projects
+- Strengthening problem-solving skills
+
+---
+
+## 📫 Let's connect
+Always open to learning, collaborating, and growing together!
