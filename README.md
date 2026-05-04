@@ -16,5 +16,10 @@
 
 ---
 
+## 📄 Resume
+[View My Resume](./Smruti_Mayee_Parida_Resume.pdf)
+
+---
+
 ## 📫 Let's connect
 Always open to learning, collaborating, and growing together!
